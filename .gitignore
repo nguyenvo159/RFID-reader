@@ -1,0 +1,42 @@
+# Thư mục và tệp của Visual Studio
+.vscode/
+.vscode/*
+
+# Các tệp tạm thời
+*.tmp
+*.temp
+*.log
+
+# Các tệp build
+bin/
+obj/
+
+# Các tệp thư viện và package
+packages/
+*.nupkg
+*.snupkg
+
+# Các tệp nhị phân và đầu ra
+*.dll
+*.exe
+*.pdb
+
+# Tệp cấu hình người dùng
+*.user
+*.suo
+
+# Các tệp khóa
+*.key
+
+# Tệp publish
+publish/
+
+# Các tệp của hệ điều hành
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Các tệp khác
+*.DS_Store
+*.directory

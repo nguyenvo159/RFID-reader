@@ -1,0 +1,46 @@
+# Th? m?c và t?p c?a Visual Studio
+.vscode/
+.vscode/*
+
+# Các t?p t?m th?i
+*.tmp
+*.temp
+*.log
+
+# Các t?p build
+bin/
+obj/
+
+# Các t?p th? vi?n và package
+packages/
+*.nupkg
+*.snupkg
+
+# Các t?p c?u hình môi tr??ng c? th?
+appsettings.json
+appsettings.*.json
+
+# Các t?p nh? phân và ??u ra
+*.dll
+*.exe
+*.pdb
+
+# T?p c?u hình ng??i dùng
+*.user
+*.suo
+
+# Các t?p khóa
+*.key
+
+# T?p publish
+publish/
+
+# Các t?p c?a h? ?i?u hành
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Các t?p khác
+*.DS_Store
+*.directory
